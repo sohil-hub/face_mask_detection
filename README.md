@@ -8,7 +8,6 @@ Deep learning based project to detect the face mask.
 * [Screenshots](#screenshots)
 * [Contents of Repo](#contents-of-repo)
 * [Installation](#installation)
-* [Technologies](#technologies)
 
 ## About The Project
 This is a Computer Vision based project to detect the face mask on the face. For detecting the face I have used a pretrained facenet model.
@@ -34,6 +33,5 @@ For detecting the mask we used CNN using tensorflow.
 ## Installation
 * Fork the repository using `git clone https://github.com/sohil-hub/face_mask_detection.git`
 * Install the packages using `pip install -r requirements.txt `
-* Change the path of line 77-78 in detect_mask_video.py according to your machine.
 * run `python detect_mask_video.py` to run the script.
 
