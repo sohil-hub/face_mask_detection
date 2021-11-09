@@ -16,6 +16,12 @@ For detecting the mask we used CNN using tensorflow.
 
 
 ## Screenshots
+#### Without Mask
+![image](https://user-images.githubusercontent.com/79828293/140976241-3a5d0b0b-fb20-494d-a829-c5a670818c81.png)
+#### With Mask
+![image](https://user-images.githubusercontent.com/79828293/140976349-1b2da91c-1daf-44f0-bf94-0783a532caca.png)
+
+
 
 ## Content of Repo
 
